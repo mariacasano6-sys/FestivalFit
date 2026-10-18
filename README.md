@@ -5,10 +5,6 @@
 👉 **Live app:** https://festivalplan-psmrfoyocntp474oetcyah.streamlit.app/
 *(If the app is asleep, click "Wake up": it takes about a minute.)*
 
-
-<img width="817" height="457" alt="image" src="https://github.com/user-attachments/assets/e3d7625c-60db-4ef8-9828-9b8b756e8e77" />
-
-
 ---
 
 ## What the app does
