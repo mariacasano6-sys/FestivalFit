@@ -2,7 +2,7 @@
 
 **Which artists fit which market?** FestivalFit groups 72 countries by the sound of what their audiences stream on Spotify, then matches artists to the markets whose taste is closest to theirs. It is built for promoters and festival bookers planning a line-up or a tour.
 
-👉 **Live app:** https://festivalplan-psmrfoyocntp474oetcyah.streamlit.app/
+👉 **Live app:** https://festivalfit.streamlit.app/
 *(If the app is asleep, click "Wake up": it takes about a minute.)*
 
 ---
